@@ -13,6 +13,7 @@
             <table class="min-w-full bg-white">
                 <thead>
                     <tr>
+                        
                         <th class="w-1/4 py-2 px-4 bg-gray-200 text-left text-xs font-semibold text-gray-700 uppercase tracking-wider">Nome</th>
                         <th class="w-1/4 py-2 px-4 bg-gray-200 text-left text-xs font-semibold text-gray-700 uppercase tracking-wider">Descrição</th>
                         <th class="w-1/4 py-2 px-4 bg-gray-200 text-left text-xs font-semibold text-gray-700 uppercase tracking-wider">Status</th>
